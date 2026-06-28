@@ -1,4 +1,4 @@
-# everyonelovespepsicola's Bypass NRO on STEROIDS!?!?!?
+# everyonelovespepsicola's Bypass NRO!?!?!?
 
 From the OOBE Screen press Shift + F10
 
